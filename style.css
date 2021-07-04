@@ -67,3 +67,20 @@ h1{
     border-image: linear-gradient(yellowgreen blue);
     border-image-slice: 1;
 }
+
+footer{
+    text-align: center;
+  margin-bottom: 20px;
+
+}
+
+.experience-text{
+    margin-left: 5%;
+}
+img {
+    border-radius: 50%;
+
+  
+  }
+
+
